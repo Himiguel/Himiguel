@@ -109,9 +109,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmHiMiguel&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himiguel&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmHiMiguel&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himiguel&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
