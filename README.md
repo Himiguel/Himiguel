@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=CompTIA+Security%2B+%E2%80%94+In+Progress;Cisco+CyberOps+Associate+%E2%80%94+In+Progress;Learning+Threat+Detection+%26+Incident+Response;Practicing+daily+on+TryHackMe)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-URL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//miguel-gomez-martinez-90b259359)
 &nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/TU-USUARIO-TRYHACKME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Himiguel)
 
 </div>
 
@@ -132,3 +132,4 @@
 📬 **Let's connect** → [LinkedIn](https://www.linkedin.com/in/TU-URL-AQUI)
 
 </div>
+
