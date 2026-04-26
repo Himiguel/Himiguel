@@ -51,7 +51,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.credly.com/users/TU-USUARIO-CREDLY/badges">
-  <img src="URL-IMAGEN-BADGE-2-AQUI" alt="Nombre del Badge 2" width="120"/>
+  <img src="//cdn.credly.com/assets/utilities/embed.js" alt="CCST" width="120"/>
 </a>
 
 </div>
