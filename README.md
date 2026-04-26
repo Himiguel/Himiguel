@@ -46,8 +46,8 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/users/TU-USUARIO-CREDLY/badges">
-  <img src="URL-IMAGEN-BADGE-1-AQUI" alt="Nombre del Badge 1" width="120"/>
+<a href="https://www.credly.com/users/himiguel/badges">
+  <img src="https://www.credly.com/badges/b3f705c3-515c-4567-bb87-ca8afbffe4fb/public_url" alt="Nombre del Badge 1" width="120"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.credly.com/users/TU-USUARIO-CREDLY/badges">
